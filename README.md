@@ -1,11 +1,11 @@
 # paper-supplements
 Supplementary materials, datasets, and code for our peer-reviewed scientific publications. 
 
-Organized by Year, subject, and, when available, the DOI.
+Organized by year, subject, and, when available, the DOI.
 
 
-## LIst of contents
+## Index
 
 | Option | Description |
 | ------ | ----------- |
-| 2026_HLA-G_imputation   | path to data files to supply the data that will be passed into templates. |
+| 2026_HLA-G_imputation   | Datasets and HIBAG models for HLA-G imputation in different levels of resolution |
