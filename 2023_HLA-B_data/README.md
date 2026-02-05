@@ -9,13 +9,13 @@ HLA-B is among the most variable gene in the human genome. This gene encodes a k
 
 ## List of files
 
-HLA-B.vcf.gz - VCF file with SNPs and indels for HLA-B
+HLA-B.vcf.gz - VCF file with SNPs and indels for HLA-B (decompress with bgzip)
 
 HLA-B.promoters.alignment.txt - HLA-B promoter haplotypes
 
 HLA-B.coding_promoter_relationship.pdf - Haplotypes including promoters and 4-field alleles (exons + introns)
 
-HLA-B.full.fas.gz - The complete sequence for HLA-B for each sample
+HLA-B.full.fas.gz - The complete sequence for HLA-B for each sample (decompress with gzip)
 
 Sample_database.pdf - HLA-B alleles for each sample
 
@@ -23,5 +23,5 @@ Sample_database.pdf - HLA-B alleles for each sample
 
 3-field.xlsx - Table with 3-field allele frequencies
 
-HLA-B.full.sequence_names.fas - fasta file with promoters + 4-field alleles
+HLA-B.full.sequence_names.fas.gz - fasta file with promoters + 4-field alleles (decompress with gzip)
 
