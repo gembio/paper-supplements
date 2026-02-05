@@ -8,4 +8,4 @@ Organized by year, DOI and subject.
 
 | Year | DOI | Folder | Description |
 | ------- | ----------- | ----------- | ----------- |
-| 2026 | - | [2026_HLA-G_imputation](https://github.com/gembio/paper-supplements/2026_HLA-G_imputation)   | Datasets and HIBAG models for HLA-G imputation in different levels of resolution | 
+| 2026 | - | [2026_HLA-G_imputation](./2026_HLA-G_imputation)   | Datasets and HIBAG models for HLA-G imputation in different levels of resolution | 
